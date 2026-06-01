@@ -5,7 +5,7 @@
 ### 🚀 Разработчик | C# | Go (в процессе) | C
 
 [![GitHub followers](https://img.shields.io/github/followers/Ranil-Valeev?style=social&label=Followers)](https://github.com/Ranil-Valeev)
-[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/RanilValeev)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@Ranil_v)
 
 </div>
 
@@ -74,6 +74,8 @@
 
 ### 🖥️ Колледж (проекты на C#)
 
+**[WPF проекты на GitHub](https://github.com/Ranil-Valeev/WPF)**
+
 - CRUD-приложения с WPF и SQL Server
 - Работа с Entity Framework
 - Базы данных и SQL запросы
@@ -116,12 +118,3 @@
 </div>
 
 ---
-
-## 📫 Контакты
-
-<div align="center">
-
-| Контакт | Ссылка |
-|---------|--------|
-| **Telegram** | [@RanilValeev](https://t.me/@Ranil_v) |
-| **GitHub** | [github.com/Ranil-Valeev](https://github.com/Ranil-Valeev) |
