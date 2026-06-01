@@ -2,7 +2,7 @@
   
 # 👋 Привет, я Раниль Валеев
 
-### 🚀 Разработчик | C# | Go (в процессе) | C
+### 🚀 Разработчик | C | Go | C#
 
 [![GitHub followers](https://img.shields.io/github/followers/Ranil-Valeev?style=social&label=Followers)](https://github.com/Ranil-Valeev)
 [![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/@Ranil_v)
@@ -69,7 +69,7 @@
 ### 🏫 Школа 21 (учебные проекты)
 
 - **[Задачи на C](https://github.com/Ranil-Valeev/C)** — решение алгоритмических задач
-- Конкурентность в Go — горутины, каналы, worker pool
+- **[Конкурентность в Go](https://github.com/Ranil-Valeev/Go)** — горутины, каналы, worker pool
 - **[Работа с PostgreSQL](https://github.com/Ranil-Valeev/PostgreSQL)** — запросы, индексы, миграции
 
 ### 🖥️ Колледж (проекты на C#)
