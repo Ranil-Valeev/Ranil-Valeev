@@ -1,16 +1,127 @@
-## Hi there 👋
+<div align="center">
+  
+# 👋 Привет, я Раниль Валеев
 
-<!--
-**Ranil-Valeev/Ranil-Valeev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 Разработчик | C# | Go (в процессе) | C
 
-Here are some ideas to get you started:
+[![GitHub followers](https://img.shields.io/github/followers/Ranil-Valeev?style=social&label=Followers)](https://github.com/Ranil-Valeev)
+[![Telegram](https://img.shields.io/badge/-Telegram-26A5E4?style=flat&logo=telegram&logoColor=white)](https://t.me/RanilValeev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+---
+
+## 🧑‍💻 Обо мне
+
+Я начинающий разработчик, который целенаправленно движется в сторону **Go**. 
+Имею практический опыт на C# и базовые знания C, что помогает глубже понимать 
+принципы работы памяти и конкурентности.
+
+### 🎓 Образование
+
+| Учебное заведение | Специализация | Статус |
+|-------------------|---------------|--------|
+| **Казанский колледж технологии и дизайна** | C# разработка, .NET, WPF | ✅ Окончил |
+| **Школа 21** (проект Сбера) | Go разработка, алгоритмы, командная работа | 🔄 В процессе |
+
+### 🎯 Моя цель
+Найти стажировку Go-разработчика, где смогу:
+- Применять знания горутин и каналов на практике
+- Участвовать в разработке распределенных систем
+- Расти вместе с сильной командой
+
+---
+
+## 📊 Мои знания и технологии
+
+| Технология | Уровень | Что умею |
+|------------|---------|----------|
+| **C#** | Средний | CRUD, WPF, LINQ, async/await, Entity Framework, SQL Server |
+| **Go** | Базовый | Синтаксис, горутины, каналы, context, тестирование, модули |
+| **C** | Базовый | Указатели, работа с памятью, структуры |
+| **PostgreSQL** | Средний | Запросы, индексы, связи между таблицами, миграции |
+| **SQL Server** | Средний | Хранимые процедуры, JOIN, вьюхи, транзакции |
+| **gRPC** | Начальный | Proto файлы, генерация кода (в процессе изучения) |
+| **Docker** | Начальный | Контейнеризация, docker-compose |
+
+---
+
+## 🛠 Инструменты и технологии
+
+<div align="center">
+
+| Категория | Технологии |
+|-----------|------------|
+| **Языки** | C# · Go · C |
+| **Базы данных** | PostgreSQL · SQL Server |
+| **Фреймворки** | WPF · .NET · Entity Framework |
+| **Инструменты** | Git · Docker · VS Code · Visual Studio |
+| **Протоколы** | REST API · gRPC (в процессе) |
+
+</div>
+
+---
+
+## 📁 Мои проекты
+
+> *Проекты постепенно выкладываю на GitHub*
+
+### 🏫 Школа 21 (учебные проекты)
+
+- Решение алгоритмических задач на Go и C
+- Проекты на конкурентность (горутины, каналы, worker pool)
+- Работа с PostgreSQL
+
+### 🖥️ Колледж (проекты на C#)
+
+- CRUD-приложения с WPF и SQL Server
+- Работа с Entity Framework
+- Базы данных и SQL запросы
+
+🔗 **[Все мои репозитории](https://github.com/Ranil-Valeev?tab=repositories)**
+
+---
+
+## 🎓 Что дала Школа 21
+
+- 📚 Самостоятельное изучение Go без лекций (peer-to-peer обучение)
+- 🧠 Решение алгоритмических задач с защитой кода
+- 🤝 Опыт командной работы
+- 📖 Чтение технической документации на английском
+
+---
+
+## 🚧 Планы развития
+
+### Текущие задачи
+- [x] Базовый синтаксис Go
+- [x] Горутины и каналы
+- [ ] Изучить gRPC
+- [ ] Написать REST API на Go
+- [ ] Освоить Docker на практике
+
+### Цель
+Найти стажировку Go-разработчика и применять знания в реальных проектах
+
+---
+
+## 📈 GitHub статистика
+
+<div align="center">
+
+![](https://github-readme-stats.vercel.app/api?username=Ranil-Valeev&show_icons=true&theme=default)
+
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranil-Valeev&layout=compact&theme=default)
+
+</div>
+
+---
+
+## 📫 Контакты
+
+<div align="center">
+
+| Контакт | Ссылка |
+|---------|--------|
+| **Telegram** | [@RanilValeev](https://t.me/@Ranil_v) |
+| **GitHub** | [github.com/Ranil-Valeev](https://github.com/Ranil-Valeev) |
