@@ -68,17 +68,13 @@
 
 ### 🏫 Школа 21 (учебные проекты)
 
-- Решение алгоритмических задач на Go и C
-- Проекты на конкурентность (горутины, каналы, worker pool)
-- Работа с PostgreSQL
+- **[Задачи на C](https://github.com/Ranil-Valeev/C)** — решение алгоритмических задач
+- **[Конкурентность в Go]— горутины, каналы, worker pool
+- **[Работа с PostgreSQL](https://github.com/Ranil-Valeev/PostgreSQL)** — запросы, индексы, миграции
 
 ### 🖥️ Колледж (проекты на C#)
 
-**[WPF проекты на GitHub](https://github.com/Ranil-Valeev/WPF)**
-
-- CRUD-приложения с WPF и SQL Server
-- Работа с Entity Framework
-- Базы данных и SQL запросы
+**[WPF проекты](https://github.com/Ranil-Valeev/WPF)** — CRUD-приложения с WPF и SQL Server, Entity Framework
 
 🔗 **[Все мои репозитории](https://github.com/Ranil-Valeev?tab=repositories)**
 
