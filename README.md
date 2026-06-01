@@ -69,7 +69,7 @@
 ### 🏫 Школа 21 (учебные проекты)
 
 - **[Задачи на C](https://github.com/Ranil-Valeev/C)** — решение алгоритмических задач
-- **[Конкурентность в Go]— горутины, каналы, worker pool
+- Конкурентность в Go — горутины, каналы, worker pool
 - **[Работа с PostgreSQL](https://github.com/Ranil-Valeev/PostgreSQL)** — запросы, индексы, миграции
 
 ### 🖥️ Колледж (проекты на C#)
@@ -100,17 +100,3 @@
 
 ### Цель
 Найти стажировку Go-разработчика и применять знания в реальных проектах
-
----
-
-## 📈 GitHub статистика
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=Ranil-Valeev&show_icons=true&theme=default)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Ranil-Valeev&layout=compact&theme=default)
-
-</div>
-
----
